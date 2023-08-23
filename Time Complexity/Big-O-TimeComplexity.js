@@ -16,3 +16,5 @@ summation(4);
     explanation: the value of n in function is 4 and the loop will iterate 4 time and every iteration
     will be added or be recorded in the sum variable and when the loop stop it will display the total sum
 */
+
+// --------------------------------------------------------------------------------------
