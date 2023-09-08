@@ -1,5 +1,4 @@
 const findTheDuplicateInArray = (arr) => {
-  // let sortedArray = arr.slice().sort();
   let result = [];
 
   for (let i = 0; i < arr.length - 1; i++) {
