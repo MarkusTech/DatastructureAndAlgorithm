@@ -10,6 +10,6 @@ const findTheDuplicateInArray = (arr) => {
   return result;
 };
 
-let array = [4, 2, 3, 7, 4, 9, 5, 6, 7, 9];
+let array = [1, 2, 2, 3, 4, 5, 5, 7];
 
 console.log(findTheDuplicateInArray(array));
