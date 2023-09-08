@@ -13,5 +13,4 @@ const largestNumber = (values) => {
   }
   return highest;
 };
-
 console.log(largestNumber(numbers));
