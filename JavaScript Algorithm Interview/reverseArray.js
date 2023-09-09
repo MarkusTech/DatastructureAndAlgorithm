@@ -1,6 +1,14 @@
 const numbers = [1, 2, 3, 4, 5, 6, 7];
 const names = ["Wenn Mark", "Jenance", "Jairo"];
 
+// Reverse The Values in Array
+/* Algorithm
+  1. create a variable for the storage of the reverse values
+  2. iterate the value in array
+  3. store the reverse value in the variable created every iteration
+    (iteration must be values.length iteration--)
+  4. print the reversed Array
+*/
 const reverse = (arr) => {
   let reverseArray = [];
   for (let i = 0; i < arr.length; i++) {
