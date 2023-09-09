@@ -13,6 +13,13 @@ reverse(numbers);
 reverse(names);
 
 // find the the largest value in array
+/* Algorithm
+  1. Create a variable for the storage of the highest number
+  2. Iterate the value in array
+  3. store to the created variable if iterated value is higher
+    than the past stored value
+  4. print the stored value
+*/
 const findTheLargestValue = (values) => {
   let largest = 0;
   for (let i = 0; i < values.length; i++) {
