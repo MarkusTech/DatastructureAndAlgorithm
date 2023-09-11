@@ -1,4 +1,4 @@
-const numbers = [1, 2, 3, 4, 5, 6];
+const numbers = [2, 5, 7, 1, 9, 4, 3, 8];
 
 // Option 1
 /* Algorithm
