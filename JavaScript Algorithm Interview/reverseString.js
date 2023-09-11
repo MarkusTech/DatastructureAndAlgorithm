@@ -23,7 +23,7 @@ revString("apple");
   1. given string - create empty string
   2. loop through each character
   3. return the reversed
-  */
+*/
 
 const reverseData = (str) => {
   let reversed = " ";
